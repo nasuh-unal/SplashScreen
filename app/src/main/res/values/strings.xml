@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SplashScreen</string>
+    <string name="baslik">Merhaba Dünya</string>
+    <string name="aciklama">İnternetten alınan kod, yolda bulunan sakızı çiğnemek gibidir</string>
+</resources>
